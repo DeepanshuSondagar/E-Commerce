@@ -1,5 +1,4 @@
-cat > package.json << 'EOF'
-{
+ {
   "name": "ecommerce",
   "version": "1.0.0",
   "main": "backend/server.js",
